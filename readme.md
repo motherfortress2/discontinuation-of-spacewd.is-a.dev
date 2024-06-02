@@ -4,3 +4,4 @@ I have a website called spacewd.is-a.dev and i am shutting it down permenantly.
 i've just gotten tired of having this subdomain and i am already running another website on neocities.
 # When and how will the site be deleted?
 i will first delete all of my repositories contianing that domain, then i will delete the domain from the is-a.dev website.
+# THE DOMAIN HAS BEEN TAKEN OVER BY A SCAM GROUP (i think) DO NOT GO THERE
